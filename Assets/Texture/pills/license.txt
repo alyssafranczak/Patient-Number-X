@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pill Bottle
+* source:	https://sketchfab.com/3d-models/pill-bottle-7339a87dac884f1e8aeed3bf80dc0a5f
+* author:	collinqy (https://sketchfab.com/collinqy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pill Bottle" (https://sketchfab.com/3d-models/pill-bottle-7339a87dac884f1e8aeed3bf80dc0a5f) by collinqy (https://sketchfab.com/collinqy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
